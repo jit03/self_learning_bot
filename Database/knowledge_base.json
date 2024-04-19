@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "hello"
+    },
+    {
+      "question": "hello",
+      "answer": "hi"
+    },
+    {
+      "question": "how are you?",
+      "answer": "i am good . what about you?"
+    },
+    {
+      "question": "How was the day?",
+      "answer": " it was a lovely day."
+    },
+    {
+      "question": "do you know about indrila?",
+      "answer": "yes, she is a bolod."
+    }
+  ]
+}
